@@ -1,3 +1,2 @@
 # 3d
-3D objects in OpenSCAD
-Download OpenSCAD from openscad.org
+3D objects in OpenSCAD (openscad.org)
