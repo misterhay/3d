@@ -1,27 +1,27 @@
 font="Calibri:style=Bold";
-cubeSize = 70;
-letterSize = 10;
+cubeSize = 50;
+letterSize = 7;
 textDepth=1;
-smooth=600;
+smooth=300;
 middle = cubeSize/2 - textDepth;
 
-text1a="This book";
-text1b="is about";
+text1a="This is";
+text1b="about";
 
 text2a="I liked";
 text2b="when";
 
-text3a="I didn't";
-text3b="like when";
+text3a="I"; // bottom of cube
+text3b="wonder";
 
-text4a="This book";
-text4b="reminds me";
+text4a="This reminds";
+text4b="me of";
 
 text5a="My favorite";
 text5b="part was";
 
-text6a="I";
-text6b="wonder";
+text6a="I didn't";
+text6b="like when";
 
 // thingiverse.com/thing:2793326
 // makezine.com/2015/09/18/design-your-own-dice-in-openscad
