@@ -1,7 +1,7 @@
 font="Calibri:style=Bold";
-cubeSize = 50;
-letterSize = 7;
-textDepth=1;
+cubeSize = 40;
+letterSize = 5.2;
+textDepth=1.5;
 smooth=300;
 middle = cubeSize/2 - textDepth;
 
